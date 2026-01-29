@@ -7,3 +7,4 @@
 
 ## Code Samples
 🔒 [Dial Lock](https://github.com/TopScrech/SwiftUI-Dial-Lock)
+🫣 [File hider/unhider](https://github.com/TopScrech/File-Hider)
