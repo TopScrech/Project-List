@@ -4,6 +4,7 @@
 - 👨‍💻 [Swifty Master](https://github.com/TopScrech/Swifty-Master) - Interactive SwiftUI code samples
 - 👨‍💻 [Git Manager](https://github.com/TopScrech/Git-Manager) - See all new commits compared to main/master, create PRs or view issues in 1 click
 - 🎮 [MC Stats](https://github.com/TopScrech/MC-Stats) - Minecraft server monitoring
+- 🎨 [Workbook Pro](https://github.com/TopScrech/Workbook-Pro) - iPad workbook
 
 ## Closed-source swift apps
 - ▶️ [YouTube Shorts Block](https://github.com/TopScrech/YouTube-Shorts-Block)
@@ -15,6 +16,7 @@
 - 💻 [Ram Usage (widgets)](https://github.com/TopScrech/Ram-Usage)
 - 📁 [Folder Preview](https://github.com/TopScrech/Folder-Preview)
 - 🩸 [Glucosy](https://github.com/TopScrech/Glucosy)
+- 🍆 [Dickpic](https://github.com/TopScrech/Dickpic) - Analyse photo library for sensetive content
 
 ## Code Samples
 - 🔒 [Dial Lock](https://github.com/TopScrech/SwiftUI-Dial-Lock)
