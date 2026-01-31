@@ -11,9 +11,9 @@
 - 👨‍💻 [CI-CD](https://github.com/TopScrech/CI-CD) - Xcode Cloud & Coolify wrapper
 - 👨‍💻 [XProj](https://github.com/TopScrech/XProj) - Xcode proj organizer
 - 📱 [Device Specs](https://github.com/TopScrech/Device-Specs)
-- 🔋 [Pro Battery](https://github.com/TopScrech/Pro-Battery) (widgets)
-- 💾 [Disk Usage](https://github.com/TopScrech/Disk-Usage-Widgets) (widgets)
-- 💻 [Ram Usage](https://github.com/TopScrech/Ram-Usage) (widgets)
+- 🔋 [Pro Battery](https://github.com/TopScrech/Pro-Battery) widgets
+- 💾 [Disk Usage](https://github.com/TopScrech/Disk-Usage-Widgets) widgets
+- 💻 [Ram Usage](https://github.com/TopScrech/Ram-Usage) widgets
 - 📁 [Folder Preview](https://github.com/TopScrech/Folder-Preview)
 - 🩸 [Glucosy](https://github.com/TopScrech/Glucosy)
 - 🍆 [Dickpic](https://github.com/TopScrech/Dickpic) - Analyse photo library for sensetive content
